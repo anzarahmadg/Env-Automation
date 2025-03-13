@@ -1,0 +1,1743 @@
+2025-02-19 18:05:29,200 - FTDM_automation_script_log - INFO - assets_service - 17 - Definition export asset model data is started.
+2025-02-19 22:34:38,945 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-19 22:34:38,947 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-19 22:34:38,953 - FTDM_automation_script_log - INFO - assets_handler - 20 - Definition export asset model data is started.
+2025-02-19 22:34:39,501 - FTDM_automation_script_log - INFO - assets_handler - 65 - Definition export asset model data is ended.
+2025-02-19 22:34:54,278 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-19 22:34:54,280 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-19 22:34:54,283 - FTDM_automation_script_log - INFO - assets_handler - 20 - Definition export asset model data is started.
+2025-02-19 22:34:54,297 - FTDM_automation_script_log - INFO - asset_model_data - 84 - Invalid asset model names: ['Test Asset Modesl']
+2025-02-19 22:34:54,455 - FTDM_automation_script_log - INFO - asset_model_data - 152 - Invalid asset model names: ['Test Asset Modesl']
+2025-02-19 22:34:54,457 - FTDM_automation_script_log - INFO - assets_handler - 37 - Data is not available for given asset model names in mongodb
+2025-02-19 22:34:54,457 - FTDM_automation_script_log - INFO - assets_handler - 65 - Definition export asset model data is ended.
+2025-02-20 10:53:28,796 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-20 10:53:28,812 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-20 10:53:28,813 - FTDM_automation_script_log - INFO - assets_handler - 20 - Definition export asset model data is started.
+2025-02-20 10:53:29,608 - FTDM_automation_script_log - INFO - assets_handler - 65 - Definition export asset model data is ended.
+2025-02-21 14:48:04,273 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-21 14:48:04,277 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-21 14:48:04,281 - FTDM_automation_script_log - INFO - assets_handler - 20 - Definition export asset model data is started.
+2025-02-21 14:48:06,739 - FTDM_automation_script_log - INFO - assets_handler - 65 - Definition export asset model data is ended.
+2025-02-24 12:20:36,253 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 12:20:36,255 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 12:20:36,255 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 12:20:36,256 - FTDM_automation_script_log - ERROR - common_util - 101 - Exception when reading json file: stat: path should be string, bytes, os.PathLike or integer, not UploadFile
+2025-02-24 12:20:36,256 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :stat: path should be string, bytes, os.PathLike or integer, not UploadFile
+2025-02-24 12:20:36,257 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 12:21:30,206 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 12:21:30,207 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 12:21:49,630 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 12:21:53,902 - FTDM_automation_script_log - ERROR - common_util - 101 - Exception when reading json file: stat: path should be string, bytes, os.PathLike or integer, not UploadFile
+2025-02-24 12:24:40,336 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 12:24:40,338 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 12:24:40,338 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 12:24:40,370 - FTDM_automation_script_log - INFO - asset_model_data - 199 - Data inserted successfully from JSON file.
+2025-02-24 12:24:40,371 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 12:32:33,952 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 12:32:33,954 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 12:32:33,954 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 12:32:33,976 - FTDM_automation_script_log - INFO - asset_model_data - 199 - Data inserted successfully from JSON file.
+2025-02-24 12:32:33,977 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 12:34:15,521 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 12:34:15,524 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 12:34:18,407 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 12:35:16,945 - FTDM_automation_script_log - ERROR - asset_model_data - 204 - Exception when inserting asset model data into MongoDB: E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 'asset_model_details/19069918'}}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 161, in insert_one
+    result = collection.insert_one(document)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 891, in insert_one
+    self._insert_one(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 831, in _insert_one
+    self._database.client._retryable_write(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2687, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 829, in _insert_command
+    _check_write_command_response(result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 285, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 255, in _raise_last_write_error
+    raise DuplicateKeyError(error.get("errmsg"), 11000, error)
+pymongo.errors.DuplicateKeyError: E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 'asset_model_details/19069918'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 172, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 166, in insert_one
+    raise Exception(str(err))
+Exception: E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 'asset_model_details/19069918'}}
+2025-02-24 12:35:16,965 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: "asset_model_details/19069918" }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 'asset_model_details/19069918'}}
+2025-02-24 12:35:16,966 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 12:35:32,944 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 12:35:32,946 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 12:35:33,950 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 14:52:27,908 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 14:52:27,910 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 14:52:29,212 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 14:54:31,123 - FTDM_automation_script_log - INFO - asset_model_data - 199 - Data inserted successfully from JSON file.
+2025-02-24 14:54:31,124 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 15:04:36,242 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 15:04:36,243 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 15:04:37,308 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 15:04:56,250 - FTDM_automation_script_log - INFO - asset_model_data - 199 - Data inserted successfully from JSON file.
+2025-02-24 15:04:56,251 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 15:30:58,363 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 15:30:58,364 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 15:30:58,365 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 15:30:58,425 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-24 15:30:58,426 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 15:32:25,078 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 15:32:25,079 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 15:32:25,080 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 15:32:25,120 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-24 15:32:25,121 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 15:32:43,491 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 15:32:43,492 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 15:32:43,493 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 15:32:43,538 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-24 15:32:43,539 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 16:21:12,331 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 16:21:12,332 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 16:21:12,333 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 16:21:12,345 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 167, in insert_one
+    result = collection.update(document_id, document)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2767, in update
+    endpoint=f"/_api/document/{self._extract_id(document)}",
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 132, in _extract_id
+    key: str = body["_key"]
+               ~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 177, in insert_one
+    raise Exception(str(err))
+Exception: string indices must be integers, not 'str'
+2025-02-24 16:21:12,382 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :string indices must be integers, not 'str'
+2025-02-24 16:21:12,425 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 17:35:03,995 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 17:35:03,996 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 17:35:03,997 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 17:35:03,998 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 199, in insert_one
+    result = collection.insert(document)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 204, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 17:35:04,004 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 17:35:04,005 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 17:47:57,598 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 17:47:57,599 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 17:47:57,600 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 17:47:57,600 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 196, in insert_one
+    result = collection.update(document)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2767, in update
+    endpoint=f"/_api/document/{self._extract_id(document)}",
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 130, in _extract_id
+    return self._validate_id(body["_id"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 206, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 17:47:57,602 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 17:47:57,602 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 17:48:26,335 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 17:48:26,336 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 17:48:26,337 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 17:48:26,340 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 196, in insert_one
+    result = collection.update(document)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2767, in update
+    endpoint=f"/_api/document/{self._extract_id(document)}",
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 130, in _extract_id
+    return self._validate_id(body["_id"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 206, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 17:48:26,343 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 17:48:26,344 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 17:48:48,433 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 17:48:48,434 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 17:48:48,435 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 17:48:49,057 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: [HTTP 404][ERR 1202] document not found
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 196, in insert_one
+    result = collection.update(document)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2785, in update
+    return self._execute(request, response_handler)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\api.py", line 74, in _execute
+    return self._executor.execute(request, response_handler)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\executor.py", line 67, in execute
+    return response_handler(resp)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2777, in response_handler
+    raise DocumentUpdateError(resp, request)
+arango.exceptions.DocumentUpdateError: [HTTP 404][ERR 1202] document not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 231, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(tags_collection, tag)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 206, in insert_one
+    raise Exception(str(err))
+Exception: [HTTP 404][ERR 1202] document not found
+2025-02-24 17:48:49,069 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :[HTTP 404][ERR 1202] document not found
+2025-02-24 17:48:49,070 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 17:49:35,094 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 17:49:35,095 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 17:49:37,587 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:02:40,135 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:02:40,138 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:02:40,138 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:02:40,883 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:02:40,885 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:08:47,474 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:08:47,476 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:08:47,478 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:08:48,082 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:08:48,082 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:09:02,396 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:09:02,397 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:09:02,398 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:09:02,400 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:09:02,400 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:09:20,011 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:09:20,012 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:09:20,012 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:09:20,012 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:09:20,013 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:11:30,436 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:11:30,437 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:11:30,438 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:11:30,439 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:11:30,439 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:14:46,909 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:14:46,911 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:14:46,911 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:14:46,912 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 190, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 196, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 18:14:46,917 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 18:14:46,919 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:15:21,465 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:15:21,467 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:15:23,184 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:17:22,248 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 190, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 196, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 18:17:22,263 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-24 18:17:22,264 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:17:40,221 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:17:40,222 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:17:41,512 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:18:28,040 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:18:28,041 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 18:19:14,625 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-24 18:19:14,626 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-24 18:19:14,627 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-24 18:19:16,416 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-24 18:19:16,417 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-24 21:37:36,938 - FTDM_automation_script_log - ERROR - assets_service - 36 - Something went wrong while inserting asset details: 1 validation error for AssetsModelConfig
+__root__
+  Expecting value: line 1 column 1 (char 0) (type=value_error.jsondecode; msg=Expecting value; doc=test; pos=0; lineno=1; colno=1)
+2025-02-24 21:38:23,098 - FTDM_automation_script_log - ERROR - assets_service - 36 - Something went wrong while inserting asset details: 4 validation errors for AssetsModelConfig
+asset_model_name
+  field required (type=value_error.missing)
+migrate_asset_model_params
+  field required (type=value_error.missing)
+migrate_asset_model_param_details
+  field required (type=value_error.missing)
+migrate_asset_model_rules
+  field required (type=value_error.missing)
+2025-02-24 21:39:14,336 - FTDM_automation_script_log - ERROR - assets_service - 36 - Something went wrong while inserting asset details: 1 validation error for AssetsModelConfig
+__root__
+  Expecting property name enclosed in double quotes: line 1 column 2 (char 1) (type=value_error.jsondecode; msg=Expecting property name enclosed in double quotes; doc={\"asset_model_name\": [\"model1\"], \"migrate_asset_model_params\": true, \"migrate_asset_model_param_details\": true, \"migrate_asset_model_rules\": true}"; pos=1; lineno=1; colno=2)
+2025-02-25 07:10:44,392 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 07:10:44,396 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 07:10:44,397 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 07:10:44,398 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 69, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 75, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 07:10:44,405 - FTDM_automation_script_log - ERROR - assets_handler - 81 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 07:10:44,406 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-25 07:14:00,237 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 07:14:00,241 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 07:14:00,242 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 07:14:00,645 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 07:14:00,646 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-25 07:45:59,252 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 07:45:59,255 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 07:45:59,255 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 07:45:59,341 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 07:45:59,342 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-25 07:46:35,878 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 07:46:35,879 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 07:46:35,880 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 07:46:36,231 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 07:46:36,233 - FTDM_automation_script_log - INFO - assets_handler - 85 - Definition import asset model data is ended.
+2025-02-25 08:06:13,536 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 08:06:13,538 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 08:06:13,539 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 08:06:13,938 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 08:06:13,995 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 08:06:13,996 - FTDM_automation_script_log - INFO - assets_handler - 91 - Definition import asset model data is ended.
+2025-02-25 08:09:24,912 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 08:09:24,914 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 08:09:24,915 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 08:09:25,225 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 08:09:25,260 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 08:09:25,263 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 08:09:55,142 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 08:09:55,143 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 08:09:55,144 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 08:09:55,145 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 69, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 75, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 08:09:55,156 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while fetching import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 08:09:55,157 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 08:11:23,722 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 08:11:23,723 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 08:11:23,724 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 08:11:23,724 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 69, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 75, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 08:11:23,727 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 08:11:23,728 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 09:55:51,732 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 09:55:51,737 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 09:55:51,739 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 09:55:51,748 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 09:55:51,749 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:17:15,541 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:17:15,545 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:17:15,547 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:17:15,571 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 69, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 75, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 10:17:15,608 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 10:17:15,610 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:18:34,886 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:18:34,889 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:18:34,891 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:18:35,499 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 10:18:35,501 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:19:34,215 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:19:34,216 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:19:34,217 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:19:34,220 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 69, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 225, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 75, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 10:19:34,223 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :bad collection name in document ID "67af1425daf735f1f7ae5dbf1"
+2025-02-25 10:19:34,224 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:23:38,506 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:23:38,507 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:23:38,508 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:23:39,555 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 10:23:39,557 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:23:49,122 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:23:49,125 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:23:49,127 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:23:49,314 - FTDM_automation_script_log - ERROR - asset_model_data - 257 - Exception when inserting asset model data into ArangoDB: bad collection name in document ID "67b2b8a4daf735f1f7ae5e12"
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 69, in insert_one
+    result = collection.insert(document, overwrite_mode='replace')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 2650, in insert
+    document = self._ensure_key_from_id(document)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 212, in _ensure_key_from_id
+    doc_id = self._validate_id(body["_id"])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\arango\collection.py", line 116, in _validate_id
+    raise DocumentParseError(f'bad collection name in document ID "{doc_id}"')
+arango.exceptions.DocumentParseError: bad collection name in document ID "67b2b8a4daf735f1f7ae5e12"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 231, in insert_asset_model_data_to_arango
+    self.util_arango_obj.insert_one(tags_collection, tag)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\arango_util.py", line 75, in insert_one
+    raise Exception(str(err))
+Exception: bad collection name in document ID "67b2b8a4daf735f1f7ae5e12"
+2025-02-25 10:23:49,333 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :bad collection name in document ID "67b2b8a4daf735f1f7ae5e12"
+2025-02-25 10:23:49,336 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:25:15,971 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:25:15,975 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:25:15,977 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:25:16,158 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 10:25:16,160 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:27:19,181 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:27:19,183 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:27:19,185 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:27:19,346 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 10:27:19,347 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:50:59,134 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:50:59,137 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:50:59,140 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 10:50:59,151 - FTDM_automation_script_log - ERROR - common_util - 98 - Exception when reading json file: Expecting value: line 3 column 16 (char 25)
+2025-02-25 10:50:59,156 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Expecting value: line 3 column 16 (char 25)
+2025-02-25 10:50:59,163 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 10:52:48,086 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 10:52:48,092 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 10:52:50,689 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:02:16,638 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:02:16,643 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:02:16,646 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:02:16,735 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 73, in insert_one
+    result = collection.insert_many(mylist)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 975, in insert_many
+    blk.execute(write_concern, session, _Op.INSERT)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\bulk.py", line 751, in execute
+    return self.execute_command(generator, write_concern, session, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\bulk.py", line 614, in execute_command
+    _raise_bulk_write_error(full_result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\bulk_shared.py", line 131, in _raise_bulk_write_error
+    raise BulkWriteError(full_result)
+pymongo.errors.BulkWriteError: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 88, in insert_one
+    raise Exception(str(err))
+Exception: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2025-02-25 11:02:16,757 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2025-02-25 11:02:16,759 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 11:02:34,538 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:02:34,541 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:02:34,543 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:02:34,570 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 73, in insert_one
+    result = collection.insert_many(mylist)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 975, in insert_many
+    blk.execute(write_concern, session, _Op.INSERT)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\bulk.py", line 751, in execute
+    return self.execute_command(generator, write_concern, session, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\bulk.py", line 614, in execute_command
+    _raise_bulk_write_error(full_result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\bulk_shared.py", line 131, in _raise_bulk_write_error
+    raise BulkWriteError(full_result)
+pymongo.errors.BulkWriteError: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 88, in insert_one
+    raise Exception(str(err))
+Exception: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2025-02-25 11:02:34,584 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 1 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 1}, 'op': {'_id': 1, 'name': 'John', 'address': 'Highway 37'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2025-02-25 11:02:34,587 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 11:04:01,239 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:04:01,244 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:04:01,246 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:04:01,320 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: batch op errors occurred, full error: {'writeErrors': [{'index': 1, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 2 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 2}, 'op': {'_id': 2, 'name': 'Peter', 'address': 'Lowstreet 27'}}], 'writeConcernErrors': [], 'nInserted': 1, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 73, in insert_one
+    result = collection.insert_many(mylist)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 975, in insert_many
+    blk.execute(write_concern, session, _Op.INSERT)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\bulk.py", line 751, in execute
+    return self.execute_command(generator, write_concern, session, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\bulk.py", line 614, in execute_command
+    _raise_bulk_write_error(full_result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\bulk_shared.py", line 131, in _raise_bulk_write_error
+    raise BulkWriteError(full_result)
+pymongo.errors.BulkWriteError: batch op errors occurred, full error: {'writeErrors': [{'index': 1, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 2 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 2}, 'op': {'_id': 2, 'name': 'Peter', 'address': 'Lowstreet 27'}}], 'writeConcernErrors': [], 'nInserted': 1, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 88, in insert_one
+    raise Exception(str(err))
+Exception: batch op errors occurred, full error: {'writeErrors': [{'index': 1, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 2 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 2}, 'op': {'_id': 2, 'name': 'Peter', 'address': 'Lowstreet 27'}}], 'writeConcernErrors': [], 'nInserted': 1, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2025-02-25 11:04:01,329 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :batch op errors occurred, full error: {'writeErrors': [{'index': 1, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: admin.asset_model_details index: _id_ dup key: { _id: 2 }', 'keyPattern': {'_id': 1}, 'keyValue': {'_id': 2}, 'op': {'_id': 2, 'name': 'Peter', 'address': 'Lowstreet 27'}}], 'writeConcernErrors': [], 'nInserted': 1, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2025-02-25 11:04:01,330 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 11:21:07,953 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:21:07,959 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:21:07,960 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:21:07,964 - FTDM_automation_script_log - ERROR - common_util - 98 - Exception when reading json file: Expecting value: line 3 column 16 (char 25)
+2025-02-25 11:21:07,966 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Expecting value: line 3 column 16 (char 25)
+2025-02-25 11:21:07,969 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 11:40:37,367 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:40:37,368 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:40:37,369 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:40:37,847 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 11:40:37,847 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 11:41:36,063 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:41:36,066 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:41:36,068 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:41:36,596 - FTDM_automation_script_log - INFO - asset_model_data - 252 - Data inserted successfully from JSON file.
+2025-02-25 11:41:36,598 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 11:52:40,373 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 11:52:40,377 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 11:52:40,379 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 11:52:40,448 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 11:52:40,450 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:25:32,794 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:25:32,796 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:25:32,797 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:25:32,881 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 76, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2687, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1098, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1059, in _update
+    _check_write_command_response(result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 285, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 256, in _raise_last_write_error
+    raise WriteError(error.get("errmsg"), error.get("code"), error)
+pymongo.errors.WriteError: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 89, in insert_one
+    raise Exception(str(err))
+Exception: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:25:32,895 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:25:32,896 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:27:27,287 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:27:27,288 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:27:27,288 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:27:27,302 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 76, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2687, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1098, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1059, in _update
+    _check_write_command_response(result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 285, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 256, in _raise_last_write_error
+    raise WriteError(error.get("errmsg"), error.get("code"), error)
+pymongo.errors.WriteError: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 89, in insert_one
+    raise Exception(str(err))
+Exception: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:27:27,310 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:27:27,311 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:38:25,488 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:38:25,490 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:38:28,320 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:42:30,553 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 76, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2687, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1098, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1059, in _update
+    _check_write_command_response(result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 285, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 256, in _raise_last_write_error
+    raise WriteError(error.get("errmsg"), error.get("code"), error)
+pymongo.errors.WriteError: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 89, in insert_one
+    raise Exception(str(err))
+Exception: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:42:30,577 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:42:30,582 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:43:30,753 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:43:30,754 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:43:30,755 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:43:30,785 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 76, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2687, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1098, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1059, in _update
+    _check_write_command_response(result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 285, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 256, in _raise_last_write_error
+    raise WriteError(error.get("errmsg"), error.get("code"), error)
+pymongo.errors.WriteError: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 89, in insert_one
+    raise Exception(str(err))
+Exception: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:43:30,790 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:43:30,790 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:45:43,878 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:45:43,879 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:45:43,879 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:45:43,889 - FTDM_automation_script_log - ERROR - asset_model_data - 208 - Exception when inserting asset model data into MongoDB: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 76, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2687, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1098, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1059, in _update
+    _check_write_command_response(result)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 285, in _check_write_command_response
+    _raise_last_write_error(write_errors)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 256, in _raise_last_write_error
+    raise WriteError(error.get("errmsg"), error.get("code"), error)
+pymongo.errors.WriteError: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 176, in insert_asset_model_data_to_mongo
+    self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 89, in insert_one
+    raise Exception(str(err))
+Exception: Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:45:43,893 - FTDM_automation_script_log - ERROR - assets_handler - 88 - Exception while import_asset_model_data :Performing an update on the path '_id' would modify the immutable field '_id', full error: {'index': 0, 'code': 66, 'errmsg': "Performing an update on the path '_id' would modify the immutable field '_id'"}
+2025-02-25 14:45:43,893 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:51:07,121 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:51:07,123 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:51:07,123 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:51:07,155 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 14:51:07,156 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:52:03,318 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:52:03,320 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:52:03,320 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:52:03,340 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 14:52:03,341 - FTDM_automation_script_log - INFO - assets_handler - 92 - Definition import asset model data is ended.
+2025-02-25 14:55:40,580 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:55:40,582 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:55:40,583 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:55:40,616 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 14:55:40,617 - FTDM_automation_script_log - INFO - assets_handler - 93 - Definition import asset model data is ended.
+2025-02-25 14:56:23,334 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:56:23,335 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:56:23,335 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 14:56:23,349 - FTDM_automation_script_log - INFO - asset_model_data - 203 - Data inserted successfully from JSON file.
+2025-02-25 14:56:23,349 - FTDM_automation_script_log - INFO - assets_handler - 93 - Definition import asset model data is ended.
+2025-02-25 14:57:02,667 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 14:57:02,671 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 14:57:02,672 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 15:34:41,280 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 15:34:41,282 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 15:34:41,284 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 15:34:42,028 - FTDM_automation_script_log - INFO - asset_model_data - 256 - Data inserted successfully from JSON file.
+2025-02-25 15:34:42,029 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 15:42:33,420 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 15:42:33,423 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 15:42:33,424 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 15:42:33,458 - FTDM_automation_script_log - INFO - asset_model_data - 209 - Data inserted successfully from JSON file.
+2025-02-25 15:42:33,460 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 15:43:57,171 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 15:43:57,173 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 15:43:57,174 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 15:43:57,211 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-25 15:43:57,212 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 15:46:11,621 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 15:46:11,624 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 15:46:11,624 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 15:46:11,679 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-25 15:46:11,680 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 15:47:47,663 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 15:47:47,665 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 15:47:47,665 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 15:47:47,986 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-25 15:47:47,987 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 16:00:22,387 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:00:22,389 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:00:22,390 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 16:00:22,425 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-25 16:00:22,426 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 16:02:36,749 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:02:36,752 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:02:36,752 - FTDM_automation_script_log - ERROR - assets_handler - 93 - Exception while import_asset_model_data :division by zero
+2025-02-25 16:02:36,754 - FTDM_automation_script_log - INFO - assets_handler - 97 - Definition import asset model data is ended.
+2025-02-25 16:02:36,755 - FTDM_automation_script_log - ERROR - assets_service - 38 - Something went wrong while inserting asset details: exceptions must derive from BaseException
+2025-02-25 16:03:37,159 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:03:37,162 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:03:37,163 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 16:03:37,165 - FTDM_automation_script_log - INFO - assets_handler - 96 - Definition import asset model data is ended.
+2025-02-25 16:12:10,075 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:12:10,076 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:12:10,077 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 16:12:10,078 - FTDM_automation_script_log - INFO - assets_handler - 102 - Definition import asset model data is ended.
+2025-02-25 16:12:10,080 - FTDM_automation_script_log - ERROR - assets_service - 38 - Something went wrong while inserting asset details: cannot unpack non-iterable NoneType object
+2025-02-25 16:13:44,572 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:13:44,575 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:13:44,576 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 16:13:44,577 - FTDM_automation_script_log - INFO - assets_handler - 102 - Definition import asset model data is ended.
+2025-02-25 16:13:44,578 - FTDM_automation_script_log - ERROR - assets_service - 38 - Something went wrong while inserting asset details: cannot unpack non-iterable NoneType object
+2025-02-25 16:14:40,073 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:14:40,077 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:14:43,268 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 16:15:37,054 - FTDM_automation_script_log - INFO - assets_handler - 102 - Definition import asset model data is ended.
+2025-02-25 16:15:37,058 - FTDM_automation_script_log - ERROR - assets_service - 38 - Something went wrong while inserting asset details: cannot unpack non-iterable NoneType object
+2025-02-25 16:17:01,626 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:17:01,627 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:17:01,628 - FTDM_automation_script_log - INFO - assets_handler - 73 - Definition import asset model data is started.
+2025-02-25 16:17:01,628 - FTDM_automation_script_log - INFO - assets_handler - 105 - Definition import asset model data is ended.
+2025-02-25 16:26:17,249 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:26:17,252 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:26:17,253 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-25 16:26:17,254 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-25 16:26:38,228 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:26:38,236 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:26:38,241 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-25 16:26:38,245 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-25 16:27:02,882 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-25 16:27:02,884 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-25 16:27:02,885 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-25 16:27:02,906 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-25 16:27:02,907 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 09:53:56,087 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 09:53:56,090 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 09:53:56,090 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 09:53:57,048 - FTDM_automation_script_log - INFO - asset_model_data - 261 - Data inserted successfully from JSON file.
+2025-02-27 09:53:57,049 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 10:11:37,902 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 10:11:37,902 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 10:11:37,903 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 10:11:38,717 - FTDM_automation_script_log - INFO - asset_model_data - 261 - Data inserted successfully from JSON file.
+2025-02-27 10:11:38,718 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 10:12:36,097 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 10:12:36,098 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 10:12:36,098 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 10:13:06,177 - FTDM_automation_script_log - ERROR - asset_model_data - 213 - Exception when inserting asset model data into MongoDB: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed3c01726040d68fa8e1, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 77, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2673, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2656, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1647, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 402, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 380, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 287, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 337, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed3c01726040d68fa8e1, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 177, in insert_asset_model_data_to_mongo
+    result = self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 90, in insert_one
+    raise Exception(str(err))
+Exception: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed3c01726040d68fa8e1, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 10:13:06,562 - FTDM_automation_script_log - ERROR - assets_handler - 101 - Exception while import_asset_model_data :localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed3c01726040d68fa8e1, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 10:13:06,562 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 10:13:28,775 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 10:13:28,776 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 10:13:28,776 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 10:13:58,833 - FTDM_automation_script_log - ERROR - asset_model_data - 213 - Exception when inserting asset model data into MongoDB: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed7001726040d68fa8e2, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 77, in insert_one
+    result = collection.update_one(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1336, in update_one
+    self._update_retryable(
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 1118, in _update_retryable
+    return self._database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2673, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2656, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1647, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 402, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 380, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 287, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 337, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed7001726040d68fa8e2, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 177, in insert_asset_model_data_to_mongo
+    result = self.util_mongo_obj.insert_one(collection_name, clean_asset_model)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 90, in insert_one
+    raise Exception(str(err))
+Exception: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed7001726040d68fa8e2, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 10:13:59,053 - FTDM_automation_script_log - ERROR - assets_handler - 101 - Exception while import_asset_model_data :localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67bfed7001726040d68fa8e2, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 10:13:59,054 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 10:15:07,826 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 10:15:07,874 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 10:15:07,930 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 10:15:08,867 - FTDM_automation_script_log - INFO - asset_model_data - 261 - Data inserted successfully from JSON file.
+2025-02-27 10:15:08,868 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 14:30:55,429 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 14:30:55,434 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 14:30:55,434 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 14:31:25,442 - FTDM_automation_script_log - ERROR - postgresql_util - 56 - Error while fetching data from asset_model_details: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67c029c701726040d68fa8e4, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 14:31:25,442 - FTDM_automation_script_log - ERROR - asset_model_data - 92 - Exception when fetching asset data from mongo DB: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67c029c701726040d68fa8e4, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 53, in find
+    return list(results)
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1281, in __next__
+    return self.next()
+           ^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1257, in next
+    if len(self._data) or self._refresh():
+                          ^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1205, in _refresh
+    self._send_message(q)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1100, in _send_message
+    response = client._run_operation(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1752, in _run_operation
+    return self._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1861, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2700, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2656, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1647, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 402, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 380, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 287, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\topology.py", line 337, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67c029c701726040d68fa8e4, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 41, in fetch_asset_model_data_from_mongo
+    asset_model_details = list(self.util_mongo_obj.find(collection_name, query))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 57, in find
+    raise Exception(str(err))
+Exception: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67c029c701726040d68fa8e4, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 14:31:25,453 - FTDM_automation_script_log - ERROR - assets_handler - 62 - Exception while fetching export_asset_model_data :localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67c029c701726040d68fa8e4, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-27 14:31:25,454 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:14:14,044 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:14:14,047 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:14:14,070 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:14:14,149 - FTDM_automation_script_log - INFO - asset_model_data - 86 - Invalid asset model names: ['string']
+2025-02-27 16:14:14,245 - FTDM_automation_script_log - INFO - asset_model_data - 154 - Invalid asset model names: ['string']
+2025-02-27 16:14:14,247 - FTDM_automation_script_log - INFO - assets_handler - 38 - Data is not available for given asset model names in mongodb
+2025-02-27 16:14:14,249 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:15:07,311 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:15:07,312 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:15:07,313 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:15:07,979 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:19:43,984 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:19:43,987 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:19:43,987 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:19:44,562 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:20:40,813 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:20:40,814 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:20:40,815 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:20:41,687 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:20:59,180 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:20:59,188 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:20:59,194 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:20:59,993 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:38:17,062 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:38:17,065 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:38:17,066 - FTDM_automation_script_log - INFO - parameter_handler - 18 - Definition export parameter data is started.
+2025-02-27 16:38:17,220 - FTDM_automation_script_log - INFO - parameter_handler - 63 - Definition export parameter data is ended.
+2025-02-27 16:40:13,644 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:40:13,779 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:40:13,865 - FTDM_automation_script_log - INFO - parameter_handler - 18 - Definition export parameter data is started.
+2025-02-27 16:40:14,342 - FTDM_automation_script_log - INFO - parameter_handler - 63 - Definition export parameter data is ended.
+2025-02-27 16:48:32,494 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:48:32,496 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:48:32,497 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:48:33,069 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:49:22,757 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:49:22,759 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:49:22,760 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:49:23,165 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:50:25,835 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:50:25,836 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:50:25,837 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-02-27 16:50:26,432 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-02-27 16:54:25,436 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 16:54:25,438 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 16:54:25,441 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 16:54:25,474 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-27 16:54:25,476 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 19:45:37,010 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 19:45:37,013 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 19:45:37,013 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 19:45:37,041 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-27 19:45:37,042 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-27 20:34:56,991 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-27 20:34:56,992 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-27 20:34:56,993 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-02-27 20:34:57,032 - FTDM_automation_script_log - INFO - asset_model_data - 208 - Data inserted successfully from JSON file.
+2025-02-27 20:34:57,034 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-02-28 08:04:55,071 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-28 08:04:55,073 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-28 08:04:55,074 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-02-28 08:04:55,114 - FTDM_automation_script_log - ERROR - postgresql_util - 56 - Error while fetching data from assets: $in needs an array, full error: {'ok': 0.0, 'errmsg': '$in needs an array', 'code': 2, 'codeName': 'BadValue'}
+2025-02-28 08:04:55,115 - FTDM_automation_script_log - ERROR - asset_model_data - 282 - Exception when fetching assets data from mongo DB: $in needs an array, full error: {'ok': 0.0, 'errmsg': '$in needs an array', 'code': 2, 'codeName': 'BadValue'}
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 53, in find
+    return list(results)
+           ^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1281, in __next__
+    return self.next()
+           ^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1257, in next
+    if len(self._data) or self._refresh():
+                          ^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1205, in _refresh
+    self._send_message(q)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\cursor.py", line 1100, in _send_message
+    response = client._run_operation(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1752, in _run_operation
+    return self._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1861, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2708, in _read
+    return self._func(self._session, self._server, conn, read_pref)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1743, in _cmd
+    return server.run_operation(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\helpers.py", line 47, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\synchronous\server.py", line 227, in run_operation
+    _check_command_response(first, conn.max_wire_version)
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\.venv\Lib\site-packages\pymongo\helpers_shared.py", line 247, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: $in needs an array, full error: {'ok': 0.0, 'errmsg': '$in needs an array', 'code': 2, 'codeName': 'BadValue'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 276, in fetch_assets_data_from_mongo
+    assets_data = list(self.util_mongo_obj.find(collection_name, query))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\utils\postgresql_util.py", line 57, in find
+    raise Exception(str(err))
+Exception: $in needs an array, full error: {'ok': 0.0, 'errmsg': '$in needs an array', 'code': 2, 'codeName': 'BadValue'}
+2025-02-28 08:04:55,140 - FTDM_automation_script_log - ERROR - assets_handler - 159 - Exception while fetching export_assets_data :$in needs an array, full error: {'ok': 0.0, 'errmsg': '$in needs an array', 'code': 2, 'codeName': 'BadValue'}
+2025-02-28 08:04:55,141 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-02-28 08:07:38,670 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-28 08:07:38,675 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-28 08:07:41,432 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-02-28 08:07:42,704 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-02-28 08:11:06,939 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-02-28 08:11:06,941 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-02-28 08:11:06,942 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-02-28 08:11:07,248 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 05:53:51,904 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 05:53:51,907 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 05:53:51,908 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 05:53:51,963 - FTDM_automation_script_log - ERROR - asset_model_data - 298 - Exception when fetching assets data from arango DB: 'ExportAssets' object has no attribute 'hierarchy'
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\asset_model_data.py", line 291, in fetch_assets_data_from_arango
+    query = {"hierarchy": {"$in": input_json.hierarchy}}
+                                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ExportAssets' object has no attribute 'hierarchy'
+2025-03-04 05:53:51,966 - FTDM_automation_script_log - ERROR - assets_handler - 159 - Exception while fetching export_assets_data :'ExportAssets' object has no attribute 'hierarchy'
+2025-03-04 05:53:51,967 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 05:58:41,179 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 05:58:41,182 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 05:58:41,183 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 05:58:41,475 - FTDM_automation_script_log - INFO - assets_handler - 133 - Data is not available for given hierarchy in mongodb
+2025-03-04 05:58:41,477 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 05:59:56,493 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 05:59:56,494 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 05:59:56,496 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 05:59:56,725 - FTDM_automation_script_log - INFO - assets_handler - 133 - Data is not available for given hierarchy in mongodb
+2025-03-04 05:59:56,726 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 06:11:52,306 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 06:11:52,309 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 06:11:52,310 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 06:11:53,083 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 06:14:31,097 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 06:14:31,099 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 06:14:31,100 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 06:14:31,693 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 06:15:29,129 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 06:15:29,130 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 06:15:29,131 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 06:15:29,144 - FTDM_automation_script_log - INFO - asset_model_data - 374 - Invalid hierarchies: ['site_102, site_102_1']
+2025-03-04 06:15:29,292 - FTDM_automation_script_log - INFO - asset_model_data - 454 - Invalid hierarchies: ['site_102, site_102_1']
+2025-03-04 06:15:29,294 - FTDM_automation_script_log - INFO - assets_handler - 133 - Data is not available for given hierarchy in mongodb
+2025-03-04 06:15:29,295 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 06:16:23,790 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 06:16:23,791 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 06:16:23,792 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 06:16:24,840 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 07:16:26,994 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 07:16:26,997 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 07:16:26,998 - FTDM_automation_script_log - INFO - assets_handler - 173 - Definition import assets data is started.
+2025-03-04 07:16:27,057 - FTDM_automation_script_log - INFO - asset_model_data - 538 - Assets data inserted successfully from JSON file.
+2025-03-04 07:16:27,059 - FTDM_automation_script_log - INFO - assets_handler - 205 - Definition import assets data is ended.
+2025-03-04 07:17:25,355 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 07:17:25,357 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 07:17:25,358 - FTDM_automation_script_log - INFO - assets_handler - 173 - Definition import assets data is started.
+2025-03-04 07:17:25,379 - FTDM_automation_script_log - INFO - asset_model_data - 538 - Assets data inserted successfully from JSON file.
+2025-03-04 07:17:25,380 - FTDM_automation_script_log - INFO - assets_handler - 205 - Definition import assets data is ended.
+2025-03-04 07:17:56,596 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 07:17:56,598 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 07:17:56,600 - FTDM_automation_script_log - INFO - assets_handler - 173 - Definition import assets data is started.
+2025-03-04 07:17:56,830 - FTDM_automation_script_log - INFO - asset_model_data - 620 - Assets data inserted successfully from JSON file.
+2025-03-04 07:17:56,831 - FTDM_automation_script_log - INFO - assets_handler - 205 - Definition import assets data is ended.
+2025-03-04 07:20:29,031 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 07:20:29,032 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 07:20:29,033 - FTDM_automation_script_log - INFO - assets_handler - 115 - Definition export assets data is started.
+2025-03-04 07:20:29,808 - FTDM_automation_script_log - INFO - assets_handler - 163 - Definition export assets data is ended.
+2025-03-04 07:21:55,668 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 07:21:55,669 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 07:21:55,670 - FTDM_automation_script_log - INFO - assets_handler - 173 - Definition import assets data is started.
+2025-03-04 07:21:55,811 - FTDM_automation_script_log - INFO - asset_model_data - 620 - Assets data inserted successfully from JSON file.
+2025-03-04 07:21:55,812 - FTDM_automation_script_log - INFO - assets_handler - 205 - Definition import assets data is ended.
+2025-03-04 07:25:43,746 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 07:25:43,747 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 07:25:43,748 - FTDM_automation_script_log - INFO - assets_handler - 173 - Definition import assets data is started.
+2025-03-04 07:25:43,861 - FTDM_automation_script_log - INFO - asset_model_data - 620 - Assets data inserted successfully from JSON file.
+2025-03-04 07:25:43,862 - FTDM_automation_script_log - INFO - assets_handler - 205 - Definition import assets data is ended.
+2025-03-04 15:49:11,671 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 15:49:11,680 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 15:49:11,681 - FTDM_automation_script_log - INFO - protocols_handler - 19 - Definition export parameter data is started.
+2025-03-04 15:49:12,380 - FTDM_automation_script_log - INFO - protocols_handler - 64 - Definition export protocols data is ended.
+2025-03-04 16:17:43,052 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 16:17:43,056 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 16:17:43,059 - FTDM_automation_script_log - ERROR - protocols_service - 36 - Something went wrong while inserting assets: 'Protocols' object has no attribute 'import_assets_data'
+2025-03-04 16:19:45,643 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 16:19:45,649 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 16:19:45,651 - FTDM_automation_script_log - INFO - protocols_handler - 73 - Definition import protocols is started.
+2025-03-04 16:19:45,906 - FTDM_automation_script_log - INFO - protocols_data - 90 - Data inserted successfully from JSON file.
+2025-03-04 16:19:45,908 - FTDM_automation_script_log - INFO - protocols_handler - 101 - Definition import protocols data is ended.
+2025-03-04 16:20:54,742 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-04 16:20:54,744 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-04 16:20:54,746 - FTDM_automation_script_log - INFO - protocols_handler - 73 - Definition import protocols is started.
+2025-03-04 16:20:54,766 - FTDM_automation_script_log - INFO - protocols_data - 69 - Data inserted successfully from JSON file.
+2025-03-04 16:20:54,767 - FTDM_automation_script_log - INFO - protocols_handler - 101 - Definition import protocols data is ended.
+2025-03-05 11:40:27,161 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-05 11:40:27,184 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-05 11:40:27,186 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-05 11:40:27,559 - FTDM_automation_script_log - INFO - protocols_handler - 55 - Data is not available for the given protocols in arango
+2025-03-05 11:40:27,561 - FTDM_automation_script_log - INFO - protocols_handler - 65 - Definition export protocols data is ended.
+2025-03-05 11:41:38,894 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-05 11:41:38,896 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-05 11:41:38,897 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-05 11:41:39,321 - FTDM_automation_script_log - INFO - protocols_handler - 65 - Definition export protocols data is ended.
+2025-03-05 11:58:24,699 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-05 11:58:24,706 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-05 11:58:24,710 - FTDM_automation_script_log - INFO - protocols_handler - 73 - Definition import protocols is started.
+2025-03-05 11:58:24,758 - FTDM_automation_script_log - INFO - protocols_data - 69 - Data inserted successfully from JSON file.
+2025-03-05 11:58:24,759 - FTDM_automation_script_log - INFO - protocols_handler - 101 - Definition import protocols data is ended.
+2025-03-07 16:13:20,978 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-07 16:13:20,979 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-07 16:13:20,979 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-07 16:13:21,357 - FTDM_automation_script_log - ERROR - arango_util - 55 - Error while fetching data from user: [HTTP 404][ERR 1203] AQL: collection or view not found: user (while parsing)
+2025-03-07 16:13:21,358 - FTDM_automation_script_log - ERROR - user_data - 53 - Exception when fetching fetch_user_data_from_arango: [HTTP 404][ERR 1203] AQL: collection or view not found: user (while parsing)
+2025-03-07 16:13:21,358 - FTDM_automation_script_log - ERROR - user_handler - 62 - Exception while fetching export user data :[HTTP 404][ERR 1203] AQL: collection or view not found: user (while parsing)
+2025-03-07 16:13:21,359 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-07 16:16:45,154 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-07 16:16:45,156 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-07 16:16:45,157 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-07 16:16:45,774 - FTDM_automation_script_log - ERROR - common_util - 53 - Exception when creating json file : Object of type bytes is not JSON serializable
+2025-03-07 16:16:45,775 - FTDM_automation_script_log - ERROR - user_handler - 62 - Exception while fetching export user data :Object of type bytes is not JSON serializable
+2025-03-07 16:16:45,776 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-07 16:55:52,928 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-07 16:55:52,932 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-07 16:55:52,934 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-07 17:06:17,516 - FTDM_automation_script_log - INFO - postgresql_util - 17 - MongoDB connection initialized!
+2025-03-07 17:06:17,517 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-07 17:06:17,517 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-07 17:06:18,352 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 15:21:06,354 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 15:21:06,359 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 15:21:06,360 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 15:21:08,718 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 15:35:09,335 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 15:35:09,338 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 15:35:09,359 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 15:35:10,058 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 15:44:58,139 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 15:44:58,140 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 15:44:58,142 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 15:51:35,261 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 16:01:03,276 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 16:01:03,278 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 16:01:03,280 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 16:10:54,446 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 16:11:32,975 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 16:11:32,981 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 16:11:33,035 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 16:12:10,823 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 16:12:10,824 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 16:12:10,825 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 16:12:11,226 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 16:17:32,544 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 16:17:32,546 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 16:17:32,547 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-10 16:17:43,541 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-10 17:17:44,907 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 17:17:44,914 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 17:17:44,915 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-10 17:17:44,944 - FTDM_automation_script_log - INFO - user_data - 122 - Data inserted successfully from JSON file.
+2025-03-10 17:17:44,945 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-10 17:19:36,368 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 17:19:36,373 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 17:19:36,375 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-10 17:28:34,306 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 17:28:34,308 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 17:28:34,309 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-10 17:28:34,419 - FTDM_automation_script_log - INFO - user_data - 152 - Data inserted successfully from JSON file.
+2025-03-10 17:28:34,420 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-10 17:56:58,959 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 17:56:58,961 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 17:56:58,963 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-10 17:57:18,064 - FTDM_automation_script_log - INFO - user_data - 204 - Data inserted successfully from JSON file.
+2025-03-10 17:57:18,065 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-10 18:17:57,322 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 18:17:57,323 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 18:17:57,324 - FTDM_automation_script_log - INFO - assets_handler - 21 - Definition export asset model data is started.
+2025-03-10 18:17:57,340 - FTDM_automation_script_log - INFO - asset_model_data - 86 - Invalid asset model names: ['string']
+2025-03-10 18:17:57,687 - FTDM_automation_script_log - INFO - asset_model_data - 154 - Invalid asset model names: ['string']
+2025-03-10 18:17:57,689 - FTDM_automation_script_log - INFO - assets_handler - 38 - Data is not available for given asset model names in mongodb
+2025-03-10 18:17:57,691 - FTDM_automation_script_log - INFO - assets_handler - 66 - Definition export asset model data is ended.
+2025-03-10 18:20:13,855 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 18:20:13,856 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 18:20:13,856 - FTDM_automation_script_log - INFO - assets_handler - 74 - Definition import asset model data is started.
+2025-03-10 18:20:14,835 - FTDM_automation_script_log - INFO - asset_model_data - 261 - Data inserted successfully from JSON file.
+2025-03-10 18:20:14,837 - FTDM_automation_script_log - INFO - assets_handler - 106 - Definition import asset model data is ended.
+2025-03-10 18:21:19,977 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 18:21:19,978 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 18:21:19,979 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-10 18:21:20,330 - FTDM_automation_script_log - INFO - protocols_handler - 39 - Data is not available for the given protocols in mongodb
+2025-03-10 18:21:20,332 - FTDM_automation_script_log - INFO - protocols_handler - 65 - Definition export protocols data is ended.
+2025-03-10 18:22:33,811 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-10 18:22:33,812 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-10 18:22:33,812 - FTDM_automation_script_log - INFO - protocols_handler - 73 - Definition import protocols is started.
+2025-03-10 18:22:33,830 - FTDM_automation_script_log - INFO - protocols_data - 69 - Data inserted successfully from JSON file.
+2025-03-10 18:22:33,831 - FTDM_automation_script_log - INFO - protocols_handler - 101 - Definition import protocols data is ended.
+2025-03-11 09:48:20,439 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-11 09:48:20,440 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-11 09:48:20,441 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-11 09:48:20,616 - FTDM_automation_script_log - ERROR - arango_util - 55 - Error while fetching data from protocol_list: [HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:48:20,617 - FTDM_automation_script_log - ERROR - protocols_data - 62 - Exception when fetching fetch_protocol_data_from_arango: [HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:48:20,617 - FTDM_automation_script_log - ERROR - protocols_handler - 62 - Exception while fetching export protocol data :[HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:48:20,617 - FTDM_automation_script_log - INFO - protocols_handler - 65 - Definition export protocols data is ended.
+2025-03-11 09:50:19,393 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-11 09:50:19,395 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-11 09:50:19,396 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-11 09:50:52,519 - FTDM_automation_script_log - ERROR - arango_util - 55 - Error while fetching data from protocol_list: [HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:56:29,366 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-11 09:56:29,368 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-11 09:56:29,368 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-11 09:56:29,677 - FTDM_automation_script_log - ERROR - arango_util - 60 - Error while fetching data from protocol_list: [HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:56:29,678 - FTDM_automation_script_log - ERROR - protocols_data - 62 - Exception when fetching fetch_protocol_data_from_arango: [HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:56:29,678 - FTDM_automation_script_log - ERROR - protocols_handler - 62 - Exception while fetching export protocol data :[HTTP 400][ERR 1501] AQL: syntax error, unexpected RETURN declaration near 'RETURN doc' at position 1:34 (while parsing)
+2025-03-11 09:56:29,679 - FTDM_automation_script_log - INFO - protocols_handler - 65 - Definition export protocols data is ended.
+2025-03-11 09:57:28,677 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-11 09:57:28,679 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-11 09:57:28,679 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-11 09:59:54,786 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-11 09:59:54,787 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-11 09:59:54,794 - FTDM_automation_script_log - INFO - protocols_handler - 20 - Definition export parameter data is started.
+2025-03-11 09:59:55,224 - FTDM_automation_script_log - INFO - protocols_handler - 65 - Definition export protocols data is ended.
+2025-03-12 09:24:18,680 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 09:24:18,685 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 09:24:18,686 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 09:24:20,686 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 09:26:09,546 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 09:26:09,549 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 09:26:09,550 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 09:26:10,814 - FTDM_automation_script_log - ERROR - common_util - 53 - Exception when creating json file : Object of type bytes is not JSON serializable
+2025-03-12 09:26:10,815 - FTDM_automation_script_log - ERROR - user_handler - 62 - Exception while fetching export user data :Object of type bytes is not JSON serializable
+2025-03-12 09:26:10,816 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 09:27:35,258 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 09:27:35,263 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 09:27:35,265 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 09:51:19,254 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 09:51:19,257 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 09:51:19,260 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 09:51:21,046 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 09:54:50,912 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 09:54:50,914 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 09:54:50,915 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 09:54:50,928 - FTDM_automation_script_log - ERROR - user_data - 169 - Exception when inserting user data into MongoDB: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\user_data.py", line 124, in insert_user_data_to_mongo
+    user['email']['d']['$binary']['base64'] = base64.b64decode(user['email']['d']['$binary']['base64'])
+                                                               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2025-03-12 09:54:50,991 - FTDM_automation_script_log - ERROR - user_handler - 96 - Exception while import_users :string indices must be integers, not 'str'
+2025-03-12 09:54:51,008 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 09:57:12,388 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 09:57:12,392 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 09:57:12,411 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 09:57:12,992 - FTDM_automation_script_log - INFO - user_data - 171 - Data inserted successfully from JSON file.
+2025-03-12 09:57:12,993 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:00:45,807 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:00:45,810 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:00:45,811 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:00:46,835 - FTDM_automation_script_log - INFO - user_data - 182 - Data inserted successfully from JSON file.
+2025-03-12 10:00:46,838 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:05:14,933 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:05:14,942 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:05:14,943 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 10:05:19,030 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 10:14:33,099 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:14:33,108 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:14:33,110 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:14:33,120 - FTDM_automation_script_log - ERROR - user_data - 177 - Exception when inserting user data into MongoDB: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Office Projects\FTDM\ftdm_migration\DPS001-Object-Env-Promotion\scripts\db\querydb\user_data.py", line 148, in insert_user_data_to_mongo
+    clean_user[key] = user[key]
+                      ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+2025-03-12 10:14:33,131 - FTDM_automation_script_log - ERROR - user_handler - 96 - Exception while import_users :string indices must be integers, not 'str'
+2025-03-12 10:14:33,138 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:17:12,176 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:17:12,182 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:17:12,185 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:20:53,253 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:20:53,262 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:20:53,264 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:21:55,473 - FTDM_automation_script_log - INFO - user_data - 172 - Data inserted successfully from JSON file.
+2025-03-12 10:21:55,474 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:24:04,497 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:24:04,499 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:24:04,602 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:24:10,982 - FTDM_automation_script_log - INFO - user_data - 172 - Data inserted successfully from JSON file.
+2025-03-12 10:24:10,987 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:27:44,083 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:27:44,086 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:27:44,135 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 10:28:14,554 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 10:32:40,034 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:32:40,037 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:32:40,038 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:33:01,693 - FTDM_automation_script_log - INFO - user_data - 224 - Data inserted successfully from JSON file.
+2025-03-12 10:33:01,697 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:45:44,742 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:45:44,748 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:45:44,759 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 10:45:46,604 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 10:49:32,505 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:49:32,508 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:49:32,512 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 10:49:32,657 - FTDM_automation_script_log - INFO - user_data - 172 - Data inserted successfully from JSON file.
+2025-03-12 10:49:32,659 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 10:50:07,323 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 10:50:07,325 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 10:50:07,326 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 10:50:16,449 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 11:07:58,805 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 11:07:58,809 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 11:07:58,810 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 11:08:00,815 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-12 11:09:37,733 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 11:09:37,737 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 11:09:37,739 - FTDM_automation_script_log - INFO - user_handler - 73 - Definition import users is started.
+2025-03-12 11:09:37,973 - FTDM_automation_script_log - INFO - user_data - 174 - Data inserted successfully from JSON file.
+2025-03-12 11:09:37,975 - FTDM_automation_script_log - INFO - user_handler - 101 - Definition import users data is ended.
+2025-03-12 11:23:11,830 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-12 11:23:11,833 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-12 11:23:11,835 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-12 11:23:13,715 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-13 09:08:23,324 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-13 09:08:23,329 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-13 09:08:23,343 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-13 09:08:24,456 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-13 09:34:38,787 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-13 09:34:38,791 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-13 09:34:38,814 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-13 09:34:39,760 - FTDM_automation_script_log - ERROR - common_util - 53 - Exception when creating json file : Object of type bytes is not JSON serializable
+2025-03-13 09:34:39,763 - FTDM_automation_script_log - ERROR - user_handler - 62 - Exception while fetching export user data :Object of type bytes is not JSON serializable
+2025-03-13 09:34:39,765 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-13 09:37:35,521 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-13 09:37:35,524 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-13 09:37:35,526 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-13 09:37:36,433 - FTDM_automation_script_log - ERROR - common_util - 53 - Exception when creating json file : Object of type bytes is not JSON serializable
+2025-03-13 09:37:36,434 - FTDM_automation_script_log - ERROR - user_handler - 62 - Exception while fetching export user data :Object of type bytes is not JSON serializable
+2025-03-13 09:37:36,435 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-13 09:40:16,867 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-13 09:40:16,870 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-13 09:40:16,871 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-13 09:40:19,399 - FTDM_automation_script_log - ERROR - common_util - 55 - Exception when creating json file : 'base64'
+2025-03-13 09:40:19,401 - FTDM_automation_script_log - ERROR - user_handler - 62 - Exception while fetching export user data :'base64'
+2025-03-13 09:40:19,403 - FTDM_automation_script_log - INFO - user_handler - 65 - Definition export user data is ended.
+2025-03-13 09:46:52,827 - FTDM_automation_script_log - INFO - mongo_util - 17 - MongoDB connection initialized!
+2025-03-13 09:46:52,832 - FTDM_automation_script_log - INFO - arango_util - 13 - ArangoDB connection initialized!
+2025-03-13 09:46:52,929 - FTDM_automation_script_log - INFO - user_handler - 20 - Definition export parameter data is started.
+2025-03-13 12:06:07,315 - FTDM_automation_script_log - ERROR - common_util - 55 - Exception when creating json file : 'base64'

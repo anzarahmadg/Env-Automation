@@ -1,0 +1,8 @@
+uvicorn~=0.30.6
+python-dotenv~=1.0.1
+fastapi~=0.99.1
+pydantic~=1.10.21
+starlette~=0.27.0
+python-arango~=8.1.4
+pymongo~=4.11.1
+python-multipart==0.0.20
